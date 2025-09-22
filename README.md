@@ -1,4 +1,5 @@
 👋 Hi, I’m Alexandre Diniz da Costa – @alexdiniz5
+
 🧑‍🏫 English teacher at Colégio de Aplicação João XXIII (UFJF) in Juiz de Fora, Brazil.
 🎓 Currently pursuing a B.S. in Information Systems (2023 – 2027) at Universidade Estácio de Sá, while holding a Ph.D. in Linguistics (Computational Linguistics, Frame Semantics, Translation) from the Federal University of Juiz de Fora (UFJF).
 🌍 During my Ph.D. I completed research stays at the University of Leipzig and Heinrich Heine University Düsseldorf, Germany (2018–2019).
